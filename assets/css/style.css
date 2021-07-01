@@ -1,0 +1,42 @@
+body{
+    font-family: tahoma
+}
+ul{
+    padding-inline-start: 1.2em;
+}
+li{
+    list-style: none;
+    line-height: 1.5em;
+}
+.dogs li{
+    list-style-type: "🐶";
+    margin: 0px;
+    font-size: .8em;
+}
+.cats li{
+    list-style-type:"🐱";
+    margin: 0px;
+    font-size: .8em;
+}
+.parrots li{
+    list-style-type:"🦜";
+    margin: 0px;
+    font-size: .8em;
+}
+.snakes li{
+    list-style-type:"🐍";
+    margin: 0px;
+    font-size: .8em;
+}
+.lizzards li{
+    list-style-type:"🦎";
+    margin: 0px;
+    font-size: .8em;
+}
+.mammals, .birds, .reptiles{
+    font-size: .8em;
+}
+section{
+    font-size: 20px;
+    border: .2rem solid black;
+}
